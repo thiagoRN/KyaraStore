@@ -3,8 +3,8 @@
 </br>
 </br></br>
 
-<h2>Projeto</h2>
-<p>Um sistema de cadastro simples utilizando pricipalmente React, node e MySQL.</p>
+<h2 align="center">Projeto</h2>
+<p align="center">Um sistema de cadastro simples utilizando pricipalmente React, node e MySQL.</p>
 </br>
 
 </br></br></br>
